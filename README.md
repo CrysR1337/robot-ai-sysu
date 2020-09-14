@@ -1,1 +1,2 @@
-# robot-ai-sysu
+# robomaster-ai-sysu
+init ......
